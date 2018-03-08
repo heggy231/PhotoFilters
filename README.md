@@ -1,4 +1,4 @@
-# PhotoFilters iOS App ![heart](Asset/heart.gif "Logo heart")
+# ![heart](Asset/heart.gif "Logo heart") PhotoFilters iOS App 
 **Description:** iOS Photo filter app randomly applies filter to my parrot photo.  Just tap **Apply Filter** button.
 
 **Live Demo:** 
