@@ -10,7 +10,7 @@
 1. PhotoFilter app should have a view function to **display the photo**.
 2. App UI should **display App title** and user may click a button to **change filters on photo**
 
-- **Credit:** ![awesome](Asset/all_the_things.jpg "Logo awesome")
+## Credit: ![awesome](Asset/all_the_things.jpg "Logo awesome")
 
   * Thank you, **[Heather](https://www.linkedin.com/in/heatherem/)** for debugging with me.  Who knew how hard it is to bring this app live to iPhone?  You are a champ!
   * Thank you, **Frankie** for tuning in.  You are a rock star!
