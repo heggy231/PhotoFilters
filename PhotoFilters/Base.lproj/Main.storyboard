@@ -18,26 +18,29 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fog.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="Xnc-u7-pmK">
-                                <rect key="frame" x="0.0" y="64" width="320" height="454"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="parrot.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Xnc-u7-pmK">
+                                <rect key="frame" x="0.0" y="64" width="320" height="460"/>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
+                            <constraint firstItem="Xnc-u7-pmK" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="2vg-7b-GOV"/>
                             <constraint firstItem="Xnc-u7-pmK" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="EI4-6S-GXZ"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Xnc-u7-pmK" secondAttribute="bottom" constant="6" id="WyV-f7-ogE"/>
+                            <constraint firstItem="Xnc-u7-pmK" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Qmb-kE-kPW"/>
                             <constraint firstAttribute="trailing" secondItem="Xnc-u7-pmK" secondAttribute="trailing" id="eHr-Xf-YhD"/>
+                            <constraint firstItem="Xnc-u7-pmK" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="gBf-xU-nDL"/>
+                            <constraint firstItem="Xnc-u7-pmK" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="mB7-ph-eRM"/>
                             <constraint firstItem="Xnc-u7-pmK" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="xVQ-nK-09G"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <toolbarItems>
-                        <barButtonItem style="plain" systemItem="flexibleSpace" id="l0r-66-AeS">
+                        <barButtonItem style="plain" systemItem="flexibleSpace" id="l0r-66-AeS"/>
+                        <barButtonItem title="Apply Filter" id="SM6-xE-ApU">
                             <connections>
-                                <action selector="applyFilter:" destination="BYZ-38-t0r" id="wOy-aC-GEQ"/>
+                                <action selector="applyFilter:" destination="BYZ-38-t0r" id="f7Y-VM-juF"/>
                             </connections>
                         </barButtonItem>
-                        <barButtonItem title="Apply Filter" id="SM6-xE-ApU"/>
                         <barButtonItem style="plain" systemItem="flexibleSpace" id="cES-8m-9Vc"/>
                     </toolbarItems>
                     <navigationItem key="navigationItem" title="Filter" id="xyV-EJ-CHs"/>
@@ -48,7 +51,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="704.79999999999995" y="94.902548725637189"/>
+            <point key="canvasLocation" x="703.125" y="94.014084507042256"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="89S-Kb-YTI">
@@ -74,6 +77,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="fog.jpeg" width="500" height="600"/>
+        <image name="parrot.jpg" width="929" height="619"/>
     </resources>
 </document>

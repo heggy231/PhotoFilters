@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     let context = CIContext(options: nil)
     
     @IBAction func applyFilter(_ sender: Any) {
+        
         // Create an image to filter
         let inputImage = CIImage(image: photoImageView.image!)
         
