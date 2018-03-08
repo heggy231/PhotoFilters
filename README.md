@@ -12,7 +12,7 @@
 
 - **Credit:** ![awesome](Asset/all_the_things.jpg "Logo awesome")
 
-  * Thank you, **Heather** for debugging with me.  Who knew how hard it is to bring this app live to iPhone?  You are a champ!
+  * Thank you, **[Heather](https://www.linkedin.com/in/heatherem/)** for debugging with me.  Who knew how hard it is to bring this app live to iPhone?  You are a champ!
   * Thank you, **Frankie** for tuning in.  You are a rock star!
-  * Thank you, **Apple Dev** for providing tutorial video.  You gave me a platform to jump off from! 
+  * Thank you, **[Apple Dev](https://developer.apple.com/swift/blog/?id=16)** for providing tutorial video.  You gave me a platform to jump off from! 
 
