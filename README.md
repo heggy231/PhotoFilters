@@ -4,6 +4,8 @@
 **Live Demo:** 
 ![DemoLive](Asset/filterApp.gif "Filter App Screenshot")
 
+![Video Walk Through](https://youtu.be/BYID2Xo6KQ4 "Let's xcode together")
+
 - **[Check out my article](https://medium.com/@heggyy/lets-xcode-together-my-first-ios-app-43da6d2e433b)** for step-by-step instruction on how to build photo filter app
 
 ## User stories:
